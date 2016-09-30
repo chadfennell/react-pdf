@@ -63,5 +63,5 @@ Author
 
 Niklas Närhinen <niklas@narhinen.net>
 
-Bart Van Houtte <bart.van.houtte@ading.be> Added Base64 Content , update PDFJS, document and page completion notification callbacks and custom loading message
-Wojciech Maj <kontakt@wojtekmaj.pl> Upgraded module to support React 15.x, included PDF.js as a native npm module in order to eliminate manual updating, removed necessity of adding global PDFJS variable
+* Bart Van Houtte <bart.van.houtte@ading.be> Added Base64 Content , update PDFJS, document and page completion notification callbacks and custom loading message
+* Wojciech Maj <kontakt@wojtekmaj.pl> Upgraded module to support React 15.x, included PDF.js as a native npm module in order to eliminate manual updating, removed necessity of adding global PDFJS variable
